@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm currently learning the beginning stages of how to become a software developer!
 I love to travel and talk about traveling.
 I'm currently working on becoming fluent in German as my family is from Germany.
-Fun fac: I'm wicked good at ping pong!
+Fun fact: I'm wicked good at ping pong!
