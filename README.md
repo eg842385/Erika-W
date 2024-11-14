@@ -26,4 +26,4 @@ Welcome to my GitHub! I’m currently diving deep into the world of software dev
 💬 Let’s Connect!
 I'm always open to discussing new opportunities or connecting with fellow developers and tech enthusiasts. Feel free to reach out:
 
-LinkedIn: linkedin.com/in/erika-williamson
+LinkedIn: linkedin.com/in/erikagwilliamson
